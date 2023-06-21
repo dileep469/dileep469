@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dileep469
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...html
+- 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...my contact number:8978447878
 
